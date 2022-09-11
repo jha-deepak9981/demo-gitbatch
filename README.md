@@ -23,3 +23,9 @@ git status
 git add
 git commit
 ```
+- [x] Introduction of VCS
+- [x] About Git
+- [x] Managing Files in Git
+- [x] Github
+- [ ] Managing Remote Repository
+- [ ] ⏰
